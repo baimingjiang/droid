@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://10.5.50.111/wildslots-mobile.ipa</string>
+                   <string>http://t1.qp.kunlun.com/update/wildslots-mobile.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://10.5.50.111/wildslots-mobile.png</string>
+                   <string>http://t1.qp.kunlun.com/update/wildslots-mobile.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://10.5.50.111/logo.png</string>
+                   <string>http://t1.qp.kunlun.com/update/logo.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
