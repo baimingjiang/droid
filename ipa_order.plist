@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://t1.qp.kunlun.com/update/wildslots-mobile.ipa</string>
+                   <string>http://172.16.77.129/release/VegaGame-ios.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://t1.qp.kunlun.com/update/wildslots-mobile.png</string>
+                   <string>http://172.16.77.129/logo.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -27,18 +27,18 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://t1.qp.kunlun.com/update/logo.png</string>
+                   <string>http://172.16.77.129/logo.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.luckycat.wildslotsen</string>
+               <string>com.playcrab.dm</string>
                <key>bundle-version</key>
                <string>1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>Free Vegas Casino Slot Machines</string>
+               <string>VEGA</string>
                <key>title</key>
                <string>Wild Slots</string>
            </dict>
